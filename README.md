@@ -14,7 +14,7 @@ https://www.udemy.com/course/flutter-in-7-days/
 
 ## STACK OVERFLOW
 https://stackoverflow.com/users/7940500/aman-malhotra
-![Stack Overflow](./images/stackoverflow.png)
+![Stack Overflow](./images/stackoverflow2.png)
 
 ## HACKER RANK
 https://www.hackerrank.com/Aman_malhotra
